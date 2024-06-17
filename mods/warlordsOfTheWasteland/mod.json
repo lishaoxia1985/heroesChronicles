@@ -1,0 +1,23 @@
+{
+	"name" : "Warlords of the Wasteland",
+	"description" : "Warlords of the Wasteland",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.conquestOfTheUnderworld",
+		"heroesChronicles.mastersOfTheElements",
+		"heroesChronicles.clashOfTheDragons",
+		"heroesChronicles.theWorldTree",
+		"heroesChronicles.theFieryMoon",
+		"heroesChronicles.revoltOftheBeastmaster",
+		"heroesChronicles.theSwordOfFrost",
+		"new-menu"
+	]
+}

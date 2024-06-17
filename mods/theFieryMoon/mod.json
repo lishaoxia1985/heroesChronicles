@@ -1,0 +1,23 @@
+{
+	"name" : "The Fiery Moon",
+	"description" : "The Fiery Moon",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.warlordsOfTheWasteland",
+		"heroesChronicles.conquestOfTheUnderworld",
+		"heroesChronicles.mastersOfTheElements",
+		"heroesChronicles.clashOfTheDragons",
+		"heroesChronicles.theWorldTree",
+		"heroesChronicles.revoltOftheBeastmaster",
+		"heroesChronicles.theSwordOfFrost",
+		"new-menu"
+	]
+}

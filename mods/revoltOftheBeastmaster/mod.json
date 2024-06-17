@@ -1,0 +1,23 @@
+{
+	"name" : "Revolt of the Beastmaster",
+	"description" : "Revolt of the Beastmaster",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.warlordsOfTheWasteland",
+		"heroesChronicles.conquestOfTheUnderworld",
+		"heroesChronicles.mastersOfTheElements",
+		"heroesChronicles.clashOfTheDragons",
+		"heroesChronicles.theWorldTree",
+		"heroesChronicles.theFieryMoon",
+		"heroesChronicles.theSwordOfFrost",
+		"new-menu"
+	]
+}

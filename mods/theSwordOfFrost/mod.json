@@ -1,0 +1,23 @@
+{
+	"name" : "The Sword of Frost",
+	"description" : "The Sword of Frost",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.warlordsOfTheWasteland",
+		"heroesChronicles.conquestOfTheUnderworld",
+		"heroesChronicles.mastersOfTheElements",
+		"heroesChronicles.clashOfTheDragons",
+		"heroesChronicles.theWorldTree",
+		"heroesChronicles.theFieryMoon",
+		"heroesChronicles.revoltOftheBeastmaster",
+		"new-menu"
+	]
+}
