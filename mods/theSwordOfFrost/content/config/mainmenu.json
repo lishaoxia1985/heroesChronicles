@@ -1,6 +1,6 @@
 {
 	//images used in game selection screen
-	"game-select" : ["CamBkHc"],
+	"game-select" : ["GamSelBk"],
 
 	"loading" : ["loadbar"],
 	"GUISettings":
