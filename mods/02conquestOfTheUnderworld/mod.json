@@ -1,0 +1,23 @@
+{
+	"name" : "Conquest of the Underworld",
+	"description" : "Conquest of the Underworld",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.01warlordsOfTheWasteland",
+		"heroesChronicles.03mastersOfTheElements",
+		"heroesChronicles.04clashOfTheDragons",
+		"heroesChronicles.05theWorldTree",
+		"heroesChronicles.06theFieryMoon",
+		"heroesChronicles.07revoltOftheBeastmaster",
+		"heroesChronicles.08theSwordOfFrost",
+		"new-menu"
+	]
+}

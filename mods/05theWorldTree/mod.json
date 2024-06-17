@@ -1,0 +1,23 @@
+{
+	"name" : "The World Tree",
+	"description" : "The World Tree",
+	"author" : "",
+	"version" : "",
+	"modType" : "",	
+	"contact" : "",
+//	"depends" :
+//	[
+//		"heroesChronicles"
+//	],
+	"conflicts" :
+	[
+		"heroesChronicles.01warlordsOfTheWasteland",
+		"heroesChronicles.02conquestOfTheUnderworld",
+		"heroesChronicles.03mastersOfTheElements",
+		"heroesChronicles.04clashOfTheDragons",
+		"heroesChronicles.06theFieryMoon",
+		"heroesChronicles.07revoltOftheBeastmaster",
+		"heroesChronicles.08theSwordOfFrost",
+		"new-menu"
+	]
+}
