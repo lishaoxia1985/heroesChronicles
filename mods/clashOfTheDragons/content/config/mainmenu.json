@@ -6,7 +6,7 @@
 	"GUISettings":
 		[
 			{
-				"GSelPop1": { "x": 456, "y": 6, "graphic": "GSelPop1.bmp" },
+				"GSelPop1": { "x": 456, "y": 6, "graphic": "GSelPop1.bmp" }
 			}
 		
 		],
@@ -24,22 +24,22 @@
 				"name" : "main",
 				"buttons":
 				[
-					{"x": -200, "y": 0,   "name":"main-new", "hotkey" : 110, "help": 3, "command": "to new"},
-					{"x": -200, "y": 120, "name":"main-load", "hotkey" : 108, "help": 4, "command": "to load"},
-					{"x": -200, "y": 240, "name":"main-scores", "hotkey" : 104, "help": 5, "command": "highscores"},
-					{"x": -200, "y": 360, "name":"main-credits", "hotkey" : 99,  "help": 6, "command": "to credits"},
-					{"x": -200, "y": 480, "name":"quit", "hotkey" : 27,  "help": 7, "command": "exit"}
+					{"x": -232, "y": 27,  "name":"main-new", "hotkey" : 110, "help": 3, "command": "to new"},
+					{"x": -232, "y": 138, "name":"main-load", "hotkey" : 108, "help": 4, "command": "to load"},
+					{"x": -232, "y": 250, "name":"main-scores", "hotkey" : 104, "help": 5, "command": "highscores"},
+					{"x": -232, "y": 355, "name":"main-credits", "hotkey" : 99,  "help": 6, "command": "to credits"},
+					{"x": -232, "y": 460, "name":"quit", "hotkey" : 27,  "help": 7, "command": "exit"}
 				]
 			},
 			{
 				"name" : "new",
 				"buttons":
 				[
-					{"x": -200, "y": 0,   "name":"game-single", "hotkey" : 115, "help": 10, "command": "start single"},
-					{"x": -200, "y": 120, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "start multi"},
-					{"x": -200, "y": 240, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "to campaign"},
-					{"x": -200, "y": 360, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "start tutorial"},
-					{"x": -200, "y": 480, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
+					{"x": -232, "y": 22,  "name":"game-single", "hotkey" : 115, "help": 10, "command": "start single"},
+					{"x": -232, "y": 136, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "start multi"},
+					{"x": -232, "y": 243, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "to campaign"},
+					{"x": -232, "y": 358, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "start tutorial"},
+					{"x": -232, "y": 460, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
 				],
 				"images": [ {"x": 157, "y": 321, "name":"NEWGAME"} ]
 			},
@@ -47,11 +47,11 @@
 				"name" : "load",
 				"buttons":
 				[
-					{"x": -200, "y": 0,   "name":"game-single", "hotkey" : 115, "help": 10, "command": "load single"},
-					{"x": -200, "y": 120, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "load multi"},
-					{"x": -200, "y": 240, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "load campaign"},
-					{"x": -200, "y": 360, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "load tutorial"},
-					{"x": -200, "y": 480, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
+					{"x": -232, "y": 22,  "name":"game-single", "hotkey" : 115, "help": 10, "command": "load single"},
+					{"x": -232, "y": 136, "name":"game-multi", "hotkey" : 109, "help": 12, "command": "load multi"},
+					{"x": -232, "y": 243, "name":"game-camp", "hotkey" : 99,  "help": 11, "command": "load campaign"},
+					{"x": -232, "y": 358, "name":"game-tutor", "hotkey" : 116, "help": 13, "command": "load tutorial"},
+					{"x": -232, "y": 460, "name":"back",  "hotkey" : 27,  "help": 14, "command": "to main"}
 				],
 				"images": [ {"x": 113, "y": 321, "name":"LOADGAME"} ]
 			},
@@ -59,11 +59,11 @@
 				"name" : "campaign",
 				"buttons":
 				[
-					{"x": -200, "y": 0,   "name":"camp-sod", "hotkey" : 119, "command": "campaigns sod"},
-					{"x": -200, "y": 120, "name":"camp-roe", "hotkey" : 114, "command": "campaigns roe"},
-					{"x": -200, "y": 240, "name":"camp-ab", "hotkey" : 97,  "command": "campaigns ab"},
-					{"x": -200, "y": 360, "name":"camp-custom", "hotkey" : 99,  "command": "start campaign"},
-					{"x": -200, "y": 480, "name":"back", "hotkey" : 27,  "command": "to new"}
+					{"x": -242, "y": 19,  "name":"camp-roe", "hotkey" : 114, "command": "campaigns roe"},
+					{"x": -253, "y": 133, "name":"camp-ab", "hotkey" : 97,  "command": "campaigns ab"},
+					{"x": -210, "y": 254, "name":"camp-sod", "hotkey" : 119, "command": "campaigns sod"},
+					{"x": -202, "y": 364, "name":"camp-custom", "hotkey" : 99,  "command": "start campaign"},
+					{"x": -232, "y": 460, "name":"back", "hotkey" : 27,  "command": "to new"}
 				]
 			}
 		]
